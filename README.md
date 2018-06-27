@@ -5,7 +5,6 @@
 1. Directly drag **openssl.xcodeproj** from the **src** folder to your iOS project
 2. your project => target(your app) => Embedded Binaries => Add **openssl.framework**
 
-
 ## Build by yourself
 
 1. Download **tar.gz** from  [Official website](https://www.openssl.org/source/)
